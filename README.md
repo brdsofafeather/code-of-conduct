@@ -46,5 +46,9 @@ We will respect confidentiality requests for the purpose of protecting victims o
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, The moderation team may take any action they deem appropriate, up to and including expulsion from all Brds of a Feather spaces and identification of the participant as a harasser to other Brds of a Feather members or the general public.
+If a participant engages in harassing behavior, the moderation team may take any action they deem appropriate, up to and including expulsion from all Brds of a Feather spaces and identification of the participant as a harasser to other Brds of a Feather members or the general public.
+
+# Adopt a code of conduct in your community
+
+If you would like to adopt a policy similar to this one in your community, see [Geek Feminism's community anti-harassment resources](http://geekfeminism.wikia.com/wiki/Community_anti-harassment), including [a freely reusable and modifiable policy](http://geekfeminism.wikia.com/wiki/Community_anti-harassment/Policy).
 
